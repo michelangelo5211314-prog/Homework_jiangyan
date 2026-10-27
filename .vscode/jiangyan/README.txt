@@ -1,0 +1,1 @@
+Open index.html through VS Code Live Server. This version needs no sketch.js and no pixel_dog.png. Three.js is loaded via network; if CDN blocked, download the matching three.min.js (v0.150.1) into vendor/three.min.js. On iPad use http://COMPUTER-LAN-IP:5500/index.html.
